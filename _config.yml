@@ -1,0 +1,8 @@
+title: Social Media Ostracism Paradigm
+description: A web-based experimental manipulation of ostracism and social exclusion, designed for research purposes.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
